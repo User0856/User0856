@@ -2,7 +2,7 @@
 
 I build APIs and developer tools for AI agents and automation.
 
-Currently building [SnapRender](https://snap-render.com) - a screenshot API that lets developers and AI agents capture any web page programmatically. Used in agent frameworks, browser automation, monitoring pipelines, and link preview generators.
+Currently developing [SnapRender](https://snap-render.com) - a screenshot API that lets developers and AI agents capture any web page programmatically. Used in agent frameworks, browser automation, monitoring pipelines, and link preview generators.
 
 ### SnapRender
 
