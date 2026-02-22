@@ -11,8 +11,9 @@ Currently building [SnapRender](https://snap-render.com) - a screenshot API that
 | API | [snap-render.com](https://snap-render.com) |
 | Node.js SDK | [`snaprender`](https://www.npmjs.com/package/snaprender) on npm |
 | Python SDK | [`snaprender`](https://pypi.org/project/snaprender/) on PyPI |
-| MCP Server | [`@snaprender/mcp-server`](https://www.npmjs.com/package/@snaprender/mcp-server) for Claude, Cursor, Windsurf |
-| OpenAPI Spec | [openapi.json](https://api.snap-render.com/openapi.json) for GPT Actions and custom integrations |
+| MCP Server | [snaprender-integrations](https://github.com/User0856/snaprender-integrations) for Claude, Cursor, Windsurf |
+| OpenClaw Skill | [snaprender](https://clawhub.ai/User0856/snaprender) on ClawHub |
+| OpenAPI Spec | [openapi.json](https://app.snap-render.com/openapi.json) for GPT Actions and custom integrations |
 | Postman | [Collection](https://github.com/User0856/snaprender-integrations) |
 
 ### What it does
